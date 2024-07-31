@@ -38,7 +38,7 @@ const Courses = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                    href="https://drive.google.com/file/d/13whNmBzIHuzwdhDgeqZoSYJBTXJf6C6r/view?usp=sharing"
                   >
                     Certificate
                   </a>
@@ -66,7 +66,7 @@ const Courses = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                    href="https://drive.google.com/file/d/1pZWZQCW8TJKm9lNdiHcRsZ7Npn2ImG2B/view?usp=sharing"
                   >
                     Certificate
                   </a>
@@ -94,7 +94,7 @@ const Courses = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                    href="https://drive.google.com/file/d/1nRx6eYY6aXi_XjxvWJhKQvazlRKt0InK/view"
                   >
                     Certificate
                   </a>
@@ -122,35 +122,7 @@ const Courses = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
-                  >
-                    Certificate
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4">
-              <div className="card rounded">
-                <div className="card-image">
-                  <img
-                    src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg"
-                    alt="project1"
-                  />
-                </div>
-                <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">
-                    UNIVERSITY OF ALBERTA
-                  </span>
-                </div>
-                <div className="card-body text-center">
-                  <div className="ad-title m-auto">
-                    <h6 className="text-uppercase">
-                      Client needs and software Requirement
-                    </h6>
-                  </div>
-                  <a
-                    className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
+                    href="https://drive.google.com/file/d/1grKrW0e1uvMiXpvjH9PkuIBkeFoTN5KO/view?usp=sharing"
                   >
                     Certificate
                   </a>
