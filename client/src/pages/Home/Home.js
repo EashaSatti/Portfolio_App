@@ -45,13 +45,13 @@ const Home = () => {
               >
                 Hire Me
               </a>
-              {/* <a
+              <a
                 className="btn btn-cv"
                 href={Resume}
                 download="Easha's Resume.pdf"
               >
                 My Resume
-              </a> */}
+              </a>
             </div>
           </Fade>
         </div>
