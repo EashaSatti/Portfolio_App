@@ -10,11 +10,12 @@ const Courses = () => {
         </h2>
         <hr />
         <p className="pb-3 text-center">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia a
-          odit ab, eligendi cupiditate, minima quasi excepturi modi et quo
-          delectus, iusto dolor atque aliquam aspernatur eveniet! Ipsam eum
-          nobis omnis id voluptatibus quas eos maxime ipsum facere numquam,
-          voluptate qui et animi doloribus nulla eius molestiae unde tempore ad
+          I have earned certifications in Python for Data Science, AI, and
+          Development from IBM, Creating a Website with WordPress from Coursera
+          Project Network, Building a Full-Stack App with React and Express from
+          Coursera Project Network, and AI for Everyone from DeepLearning.AI.
+          These credentials reflect my expertise in data science, web
+          development, and artificial intelligence.
         </p>
         {/* card design */}
         <div className="row" id="ads">
@@ -23,7 +24,7 @@ const Courses = () => {
               <div className="card rounded">
                 <div className="card-image">
                   <img
-                    src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm1WmVnFhpWmNP7q6iN5KxYsqgN7Dsud0czg&s"
                     alt="project1"
                   />
                 </div>
@@ -39,6 +40,7 @@ const Courses = () => {
                   <a
                     className="ad-btn"
                     href="https://drive.google.com/file/d/13whNmBzIHuzwdhDgeqZoSYJBTXJf6C6r/view?usp=sharing"
+                    target="_blank"
                   >
                     Certificate
                   </a>
@@ -49,7 +51,7 @@ const Courses = () => {
               <div className="card rounded">
                 <div className="card-image">
                   <img
-                    src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5nRUSXE02uWUqKGUhPAMPF4Hi1kU21v3JRg&s"
                     alt="project1"
                   />
                 </div>
@@ -67,6 +69,7 @@ const Courses = () => {
                   <a
                     className="ad-btn"
                     href="https://drive.google.com/file/d/1pZWZQCW8TJKm9lNdiHcRsZ7Npn2ImG2B/view?usp=sharing"
+                    target="_blank"
                   >
                     Certificate
                   </a>
@@ -77,7 +80,7 @@ const Courses = () => {
               <div className="card rounded">
                 <div className="card-image">
                   <img
-                    src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TvXYkd-i9L4TETD7NbFu5FEt8IKAYKTo9g&s"
                     alt="project1"
                   />
                 </div>
@@ -95,6 +98,7 @@ const Courses = () => {
                   <a
                     className="ad-btn"
                     href="https://drive.google.com/file/d/1nRx6eYY6aXi_XjxvWJhKQvazlRKt0InK/view"
+                    target="_blank"
                   >
                     Certificate
                   </a>
@@ -109,7 +113,7 @@ const Courses = () => {
               <div className="card rounded">
                 <div className="card-image">
                   <img
-                    src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkS2Rp5xQgYaA9z48nTX-lglgNGM_yjBCJSA&s"
                     alt="project1"
                   />
                 </div>
@@ -123,6 +127,7 @@ const Courses = () => {
                   <a
                     className="ad-btn"
                     href="https://drive.google.com/file/d/1grKrW0e1uvMiXpvjH9PkuIBkeFoTN5KO/view?usp=sharing"
+                    target="_blank"
                   >
                     Certificate
                   </a>

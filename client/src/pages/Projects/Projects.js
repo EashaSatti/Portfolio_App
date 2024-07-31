@@ -6,15 +6,14 @@ const Projects = () => {
     <>
       <div className="continer project" id="projects">
         <h2 className="col-12 mt-3 mb-1 text-center text-uppercase">
-          TOP RECENT PROJECTS
+          KEY PROJECTS
         </h2>
         <hr />
         <p className="pb-3 text-center">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia a
-          odit ab, eligendi cupiditate, minima quasi excepturi modi et quo
-          delectus, iusto dolor atque aliquam aspernatur eveniet! Ipsam eum
-          nobis omnis id voluptatibus quas eos maxime ipsum facere numquam,
-          voluptate qui et animi doloribus nulla eius molestiae unde tempore ad
+          I've developed a Food Delivery Website, a Music App, and a Simple
+          Animated Website using HTML, CSS, React, and GSAP Animation Library.
+          These projects highlight my skills in creating intuitive user
+          interfaces and dynamic web experiences.
         </p>
         {/* card design */}
         <div className="row" id="ads">
@@ -24,7 +23,7 @@ const Projects = () => {
                 <div className="card-image">
                   <span className="card-notify-badge">Frontend</span>
                   <img
-                    src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZk_vlE6g736NLjGedRNCDITHFtKyVjWs9PQ&s"
                     alt="project1"
                   />
                 </div>
@@ -40,6 +39,7 @@ const Projects = () => {
                   <a
                     className="ad-btn"
                     href="https://eashasatti.github.io/Food-Delivery-ReactApp/"
+                    target="_blank"
                   >
                     View
                   </a>
@@ -51,7 +51,7 @@ const Projects = () => {
                 <div className="card-image">
                   <span className="card-notify-badge">Frontend</span>
                   <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR356D-1YtSagN4-_ZdjZ5H9o6PKUO4h12dvw&usqp=CAU"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHcpbiaE6c8K8jPeWvkFi9x3mRr-mRajhlg&s"
                     alt="project2"
                   />
                 </div>
@@ -66,8 +66,8 @@ const Projects = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://eashasatti.github.io/Spotify_Simple_Music_App/
-"
+                    href="https://eashasatti.github.io/Spotify_Simple_Music_App/"
+                    target="_blank"
                   >
                     View
                   </a>
@@ -79,7 +79,7 @@ const Projects = () => {
                 <div className="card-image">
                   <span className="card-notify-badge">Frontend</span>
                   <img
-                    src="https://www.nextwebi.com/assets/img/img-source/mobile-top-banner-28.png"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXFbrda1Ow-jzLQCeWgcUAbA33dIvKuctqw&s"
                     alt="project1"
                   />
                 </div>
@@ -97,8 +97,8 @@ const Projects = () => {
                   </div>
                   <a
                     className="ad-btn"
-                    href="https://eashasatti.github.io/Simple_webEffect_with_gsap-/
-"
+                    href="https://eashasatti.github.io/Simple_webEffect_with_gsap-/"
+                    target="_blank"
                   >
                     View
                   </a>

@@ -14,10 +14,11 @@ const About = () => {
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
               <h1>About me</h1>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
-                similique sequi velit aperiam totam quis iusto? Deleniti,
-                similique id, sunt porro eos neq tempora quis fugit? Vitae,
-                aperiam velit.
+                I'm Easha Zeb Satti, an IT student passionate about AI and
+                frontend development. Currently, I'm honing my skills in web
+                technologies and exploring artificial intelligence through
+                various courses and projects. My goal is to innovate and create
+                impactful solutions in the tech industry.
               </p>
             </div>
           </div>

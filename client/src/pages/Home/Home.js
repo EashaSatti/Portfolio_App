@@ -24,11 +24,11 @@ const Home = () => {
         </div>
         <div className="container home-content">
           <Fade right>
-            <h2>Hi 👋 I'm a</h2>
+            <h2>Hi 👋 I'm</h2>
             <h1>
               <Typewriter
                 options={{
-                  strings: ["FullStack Developer!", "Mern Stack Developer!"],
+                  strings: ["Web Developer!", "Interested in AI"],
                   autoStart: true,
                   loop: true,
                 }}
@@ -39,19 +39,19 @@ const Home = () => {
             <div className="home-buttons">
               <a
                 className="btn btn-hire"
-                href="https://api.whatsapp.com/send?phone=03428334583"
+                href="https://www.linkedin.com/in/easha-s-91b79823a/"
                 rel="noreferrer"
                 target="_blank"
               >
                 Hire Me
               </a>
-              <a
+              {/* <a
                 className="btn btn-cv"
                 href={Resume}
                 download="Easha's Resume.pdf"
               >
                 My Resume
-              </a>
+              </a> */}
             </div>
           </Fade>
         </div>

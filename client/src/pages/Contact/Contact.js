@@ -62,13 +62,31 @@ const Contact = () => {
                     <div className="row">
                       <h6>
                         Contact With
-                        <BsLinkedin color="blue" size={30} className="ms-2" />
-                        <BsGithub color="black" size={30} className="ms-2" />
-                        <TbBrandFiverr
-                          color="green"
-                          size={30}
-                          className="ms-2"
-                        />
+                        <a
+                          href="https://www.linkedin.com/in/easha-s-91b79823a/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <BsLinkedin color="blue" size={30} className="ms-2" />
+                        </a>
+                        <a
+                          href="https://github.com/EashaSatti"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <BsGithub color="black" size={30} className="ms-2" />
+                        </a>
+                        <a
+                          href="https://www.fiverr.com/eashasatti?up_rollout=true"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <TbBrandFiverr
+                            color="green"
+                            size={30}
+                            className="ms-2"
+                          />
+                        </a>
                       </h6>
                     </div>
 
